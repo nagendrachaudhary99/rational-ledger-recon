@@ -1,0 +1,7 @@
+[
+  {"doc_id": "DOC-201", "vendor": "Amazon Web Services", "amount": 412.88, "date": "2026-10-03", "kind": "invoice"},
+  {"doc_id": "DOC-202", "vendor": "Blue Bottle Coffee", "amount": 86.40, "date": "2026-10-05", "kind": "receipt"},
+  {"doc_id": "DOC-203", "vendor": "WeWork", "amount": 1250.00, "date": "2026-10-01", "kind": "invoice"},
+  {"doc_id": "DOC-204", "vendor": "Figma", "amount": 45.00, "date": "2026-10-07", "kind": "invoice"},
+  {"doc_id": "DOC-205", "vendor": "Lyft", "amount": 32.19, "date": "2026-10-08", "kind": "receipt"}
+]

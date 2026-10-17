@@ -1,0 +1,9 @@
+[
+  {"entry_id": "E-901", "vendor": "Amazon Web Services", "amount": 412.88, "date": "2026-10-03", "account": "software", "doc_ref": "DOC-201"},
+  {"entry_id": "E-902", "vendor": "Blue Bottle Coffee", "amount": 86.40, "date": "2026-10-05", "account": "meals", "doc_ref": "DOC-202"},
+  {"entry_id": "E-903", "vendor": "WeWork", "amount": 1250.00, "date": "2026-10-01", "account": "rent", "doc_ref": "DOC-203"},
+  {"entry_id": "E-904", "vendor": "WeWork", "amount": 1250.00, "date": "2026-10-01", "account": "rent", "doc_ref": "DOC-203"},
+  {"entry_id": "E-905", "vendor": "Figma", "amount": 54.00, "date": "2026-10-07", "account": "software", "doc_ref": "DOC-204"},
+  {"entry_id": "E-906", "vendor": "Office Depot", "amount": 210.00, "date": "2026-10-09", "account": "supplies", "doc_ref": "DOC-299"},
+  {"entry_id": "E-907", "vendor": "Misc consulting", "amount": 4000.00, "date": "2026-10-10", "account": "professional_services", "doc_ref": ""}
+]
